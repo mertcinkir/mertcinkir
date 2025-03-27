@@ -2,4 +2,3 @@
 - 👀 I’m interested in machine learning and database management (also other software related fields)
 - 🌱 I’m currently a student in computer science.
 - 📫 How to reach me: linkedin.com/in/yusuf-mert-cinkir
-- ⚡ Fun fact: I'm a fast learner and I'm eager to improve myself on computer science
